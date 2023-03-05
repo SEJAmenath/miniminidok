@@ -1,0 +1,2 @@
+# miniminidok
+devaloper-sejamenath
